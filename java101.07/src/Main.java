@@ -25,5 +25,7 @@ public class Main {
 
         toplamTutar=armut*armutKg+elma*elmaKg+domates*domatesKg+muz*muzKg+patlican*patlicanKg;
         System.out.println("Toplam Tutar : "+toplamTutar+ "TL");
+
+
     }
 }
